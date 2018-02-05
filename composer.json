@@ -1,0 +1,24 @@
+{
+    "name": "dullcat-c/validate",
+    "description": "this is a simple library for php data validate",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DullCat-c",
+            "email": "cat_cxy@qq.com"
+        },
+        {
+            "name": "batcom",
+            "email": "1516070515@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "validate\\": "src/"
+        }
+    }
+}
