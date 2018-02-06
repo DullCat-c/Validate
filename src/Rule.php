@@ -85,6 +85,7 @@ class Rule
                 break;
             case 'eq':
                 $var = mb_strlen($var,'UTF8')==$length ?$var:false;
+                break;
             case 'between':
                 $conarr = explode('|',$length);
                 if(count($conarr)==2&&is_numeric($conarr['0'])&&is_numeric($conarr['1']))

@@ -1,6 +1,7 @@
 {
-    "name": "dullcat-c/validate",
+    "name": "dullcat-c/verifier",
     "description": "this is a simple library for php data validate",
+    "keywords":"verifier,filter",
     "type": "library",
     "require": {
         "php": ">=5.3.0"
