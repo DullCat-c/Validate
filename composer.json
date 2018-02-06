@@ -1,5 +1,5 @@
 {
-    "name": "dullcat-c/Verifier",
+    "name": "dullcat-c/verifier",
     "description": "this is a simple library for php data validate",
     "keywords":"verifier,filter",
     "type": "library",
