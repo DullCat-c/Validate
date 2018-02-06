@@ -1,8 +1,8 @@
 <?php
 
-namespace Validate;
+namespace Verifier;
 
-class Validate extends Rule
+class Verifier extends Rule
 {
     //使用函数
     public function validate($rules, $data, $pre = '')

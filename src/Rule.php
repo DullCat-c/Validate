@@ -1,5 +1,5 @@
 <?php
-namespace Validate;
+namespace Verifier;
 
 /**
  * Class Rule
