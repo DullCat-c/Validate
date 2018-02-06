@@ -1,7 +1,7 @@
 {
-    "name": "dullcat-c/verifier",
+    "name": "dullcat-c/validate",
     "description": "this is a simple library for php data validate",
-    "keywords":"verifier,filter",
+    "keywords":"validate,filter",
     "type": "library",
     "require": {
         "php": ">=5.3.0"
@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Verifier\\": "src/"
+            "Validate\\": "src/"
         }
     }
 }
