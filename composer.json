@@ -1,5 +1,5 @@
 {
-    "name": "validate",
+    "name": "validate/validate",
     "description": "this is a simple library for php data validate",
     "keywords":["validate","filter","php"],
     "type": "library",
